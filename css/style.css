@@ -1,0 +1,131 @@
+body {
+	font-family: Helvetica;
+	background-color: #26324c;
+}
+#wrapper {
+	width: 900px;
+	margin: 0 auto;
+	background-color: white;
+	padding: 0px 10px 0px 10px;
+}
+#header {
+	background-color: lightgray;
+	background:rgba(0,0,0,0.75);
+	text-align: left;
+	font-size: 18px;
+	padding-left: 10px;
+	padding-top: 10px;
+	width: 910px;
+	margin-left: -10px;
+	position: fixed;
+}
+span.uppercase {
+	text-transform: uppercase;
+	color: white;
+}
+span.italic {
+	font-family: cursive;
+	font-style: italic;
+	color: lightblue;
+}
+.navbar {
+	background-color: #426081;
+	float: right;
+	margin-top: 32px;
+	text-align: center;
+}
+li {
+	float: left;
+	list-style-type: none;
+	text-transform: uppercase;
+	font-weight: bold;
+	color: white;
+	margin: 0px 10px 10px 0px;
+}
+#logo {
+	padding-top: 140px;
+	margin: 0px 25px 0px 10px;
+	float: left;
+}
+.services {
+	border: 2px solid black;
+	float: left;
+	position: inline-block;
+	margin: 0px 55px 30px 55px;
+	background-color: #426081;
+	color: white;
+	text-transform: uppercase;
+	padding: 15px;
+}
+a#homepage:link, a#homepage:visited {
+	color: white;
+	text-decoration: none;
+}
+a#homepage:hover {
+	color: white;
+	text-decoration: none;
+}
+a.nav:link, a.nav:visited {
+	color: white;
+	text-decoration: none;
+}
+a.nav:hover {
+	color: lightblue;
+	text-decoration: underline;
+}
+#intro {
+	padding-top: 120px;
+}
+#footer {
+	clear: both;
+	text-align: center;
+	font-size: 13px;
+}
+span.blue {
+	color: #426081;
+	font-weight: bold;
+}
+div#bocca {
+	padding-top: 125px;
+}
+h3 {
+	color: #26324c;
+}
+object {
+	float: left;
+	width: 30%;
+	margin: 0px 10px 5px 0px;
+}
+#services {
+	text-align: center;
+	background-color: lightgray;
+	text-transform: uppercase;
+}
+#design {
+	position: inline;
+	margin: 20px 0px 20px 0px;
+}
+#contact {
+	float: left;
+	width: 60%;
+	padding-top: 125px;
+}
+#contactinfo {
+	border: 4px dashed lightblue;
+	float: right;
+	width: 25%;
+	margin: 135px 10px 0px 100px;
+	text-align: center;
+}
+h4 {
+	text-transform: uppercase;
+	font-size: 20px;
+}
+span.bluebackground {
+	background-color: #26324c;
+	color: white;
+	padding: 5px;
+}
+span.bold {
+	font-weight: bold;
+}
